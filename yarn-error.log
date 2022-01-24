@@ -1,5 +1,5 @@
 Arguments: 
-  /home/eduardo/.nvm/versions/node/v14.18.1/bin/node /home/eduardo/.nvm/versions/node/v14.18.1/bin/yarn add node
+  /home/eduardo/.nvm/versions/node/v14.18.1/bin/node /home/eduardo/.nvm/versions/node/v14.18.1/bin/yarn
 
 PATH: 
   /home/eduardo/.nvm/versions/node/v14.18.1/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
@@ -26,12 +26,12 @@ Trace:
 
 npm manifest: 
   {
-      "dependencies": {
-        "cors": "^2.8.5",
-        "json-server": "^0.16.3",
-        "json-server-auth": "^2.1.0"
-      }
+    "dependencies": {
+      "cors": "^2.8.5",
+      "json-server": "^0.16.3",
+      "json-server-auth": "^2.1.0"
     }
+  }
 
 yarn manifest: 
   No manifest

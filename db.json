@@ -18,6 +18,12 @@
       "password": "$2a$9lkadhakjJKHSDGKASJHDKASLDBJKDKLSA901231",
       "name": "Eduardo Paiva",
       "id": 3
+    },
+    {
+      "email": "eduardopgz@yahoo.com",
+      "password": "Senha123",
+      "name": "Eduardo Guermandi",
+      "id": 4
     }
   ],
   "products": [

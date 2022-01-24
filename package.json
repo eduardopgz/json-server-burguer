@@ -2,11 +2,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.16.3",
-    "json-server-auth": "^2.1.0",
-    "engines": {
-      "node": "14.x",
-      "npm": "6.x",
-      "yarn": "1.x"
-    }
+    "json-server-auth": "^2.1.0"
   }
 }
